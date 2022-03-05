@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tam Tran</h1>
-<h3 align="center">I am a passionate fullstack/font-end developer who is willing to learn continuously. While it helps me accomplish day-to-day tasks, it also helps me stay up to date with new technologies and innovations.</h3>
+<h3 align="center">I am a passionate fullstack/back-end developer who is willing to learn continuously. While it helps me accomplish day-to-day tasks, it also helps me stay up to date with new technologies and innovations.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
