@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tam Tran</h1>
-<h3 align="center">I am a testing enthusiast who enjoys tracking bugs and developing ideas for solving problems and improvement, as well as team working, collaboration and learning.</h3>
+<h3 align="center">I am a programming and testing enthusiast who enjoys developing ideas for solving problems, and tracking bugs for improvement, as well as team working, collaboration and learning.</h3>
 
 - 🔭 I’m currently working on **a project with Cypress & Cucumebr**
 
